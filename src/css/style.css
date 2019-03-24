@@ -1,0 +1,25 @@
+.text-center{
+    padding-top: 3%;
+}
+.text-justify{
+    padding-top: 3%;
+}
+.about{
+    background-color: rgb(153, 185, 185);
+}
+
+.portfolio{
+    background-color: rgb(153, 185, 185);
+}
+.contact{
+    background-color: rgb(153, 185, 185);
+}
+
+.botao{
+    text-decoration: none;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
